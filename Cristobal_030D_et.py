@@ -13,7 +13,7 @@ stock = {'8475HD': [387990,10], '2175HD': [327990,4], 'JjfFHD': [424990,1],
         'GF75HD': [749990,2], 'UWU131HD': [349990,1], 'FS1230HD': [249990,0]}
 
 
-# haceme un prgrama en python de una tienda online llamada pybook se ha especializado en la venta de notebooks . la informacion de cada modelo de notebook esta registrada en un diccionario llamado "productos" donde las llaves son los modelos
+# una tienda online llamada pybook se ha especializado en la venta de notebooks . la informacion de cada modelo de notebook esta registrada en un diccionario llamado "productos" donde las llaves son los modelos
 #y los valores asiociados a las llaves son listas que contiene informacion asociada a cada modelo , los putnos suspensivos indican que pueden existir muchos mas datos
  # pybooks le solicita las siguientes opciones:
 # 1- stock marca
